@@ -27,6 +27,3 @@ The design is implemented pixel-perfect from the provided Dribbble screenshots, 
 - **Minified CSS and JavaScript** in production build  
 - **Efficient bundling** with Vite (tree-shaking + code splitting)  
 
----
-
-## 📂 Project Structure
