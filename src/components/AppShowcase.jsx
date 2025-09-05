@@ -8,13 +8,13 @@ const AppShowcase = () => {
           <div className="flex flex-col gap-4  ">
             <img
               loading="lazy"
-              src="/sectionImg1.png"
+              src="/sectionImg1.webp"
               alt="Applications List"
               className="w-full h-full object-cover rounded-3xl bg-gray-100  "
             />
             <img
               loading="lazy"
-              src="/sectionImg2.png"
+              src="/sectionImg2.webp"
               alt="College Details"
               className="w-full h-full object-cover rounded-3xl bg-gray-100"
             />
@@ -24,13 +24,13 @@ const AppShowcase = () => {
           <div className="flex flex-col gap-4 ">
             <img
               loading="lazy"
-              src="/sectionImg3.png"
+              src="/sectionImg3.webp"
               alt="Search Results"
               className="w-full h-full object-cover rounded-3xl bg-gray-100"
             />
             <img
               loading="lazy"
-              src="/sectionImg4.png"
+              src="/sectionImg4.webp"
               alt="Chat Interface"
               className="w-full h-full object-cover rounded-3xl bg-gray-100"
             />
@@ -42,7 +42,7 @@ const AppShowcase = () => {
             {/* Background Image */}
             <img
               loading="lazy"
-              src="/sectionImgfull-height.png"
+              src="/sectionImgfull-height.webp"
               alt="Graduation Showcase"
               className="absolute inset-0 w-full h-full object-cover"
             />

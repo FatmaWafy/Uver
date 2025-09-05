@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import sectionTwoImage from '/sectionTwo.png';
+import sectionTwoImage from '/sectionTwo.webp';
 
 const ComprehensiveSearch = () => {
   const [activeTab, setActiveTab] = useState('College Search');

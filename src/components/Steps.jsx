@@ -36,7 +36,7 @@ const Steps = () => {
     {
       title: "Discover, apply, succeed – UVER app makes college search effortless.",
       isSpecial: true,
-      image: "/graduation-ceremony-students.jpg",
+      image: "/graduation-ceremony-students.webp",
     },
   ];
 

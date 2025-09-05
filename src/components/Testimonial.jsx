@@ -8,19 +8,19 @@ const Testimonial = () => {
       text: "As a beta tester, I was amazed by how seamlessly it streamlined my college search. The personalized recommendations were spot on, and the application tracker kept me organized. UVER exceeded my expectations, and I'm thrilled to see it launch!",
       author: "Emily S.",
       role: "Beta Tester",
-      avatar: "/female-student-avatar.png",
+      avatar: "/female-student-avatar.webp",
     },
     {
       text: "UVER made the daunting process of finding the right college so much easier. The interface is clean and intuitive, and the application tracker is a game-changer. I highly recommend it to any student looking for an edge in their college applications.",
       author: "Michael T.",
       role: "Beta Tester",
-      avatar: "/male1-student-avatar.png",
+      avatar: "/male1-student-avatar.webp",
     },
     {
       text: "I loved the personalized college suggestions. It felt like UVER truly understood my needs and preferences. The application tracker was also incredibly helpful, making sure I never missed a deadline. This is a must-have tool!",
       author: "John L.",
       role: "Beta Tester",
-      avatar: "/male2-student-avatar.png",
+      avatar: "/male2-student-avatar.webp",
     },
   ];
 

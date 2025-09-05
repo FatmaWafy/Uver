@@ -1,4 +1,4 @@
-import phoneMockupImage from '/mobileMockup.png';
+import phoneMockupImage from '/mobileMockup.webp';
 
 const phoneMockupStyle = `\
 @keyframes slideVertical {

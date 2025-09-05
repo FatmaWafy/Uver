@@ -8,7 +8,7 @@ const Mission = () => {
       <div className="absolute inset-0">
         <img
         loading="lazy"
-          src="/business-meeting-team-collaboration.jpg"
+          src="/business-meeting-team-collaboration.webp"
           alt="Team collaboration"
           className="w-full h-full object-cover  overflow-hidden"
         />
