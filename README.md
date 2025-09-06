@@ -8,11 +8,7 @@ The design is implemented pixel-perfect from the provided Dribbble screenshots, 
 ## 🚀 Tech Stack
 - **React 18** with Vite  
 - **TailwindCSS** for styling  
-- **Radix UI** & **shadcn UI** for accessible UI components  
 - **lucide-react** for icons  
-- **recharts** for charts & visualizations  
-- **react-hook-form + zod** for form handling & validation  
-
 ---
 
 ## ✨ Features
