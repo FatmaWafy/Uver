@@ -50,13 +50,13 @@ const ComprehensiveSearch = () => {
         <div className="grid grid-cols-1 lg:grid-cols-[auto_1fr_1fr] gap-5  ">
           {/* Navigation Column */}
           <div className="lg:col-span-1 me-[100px]  ">
-            <div className="flex flex-col space-y-2 text-center lg:text-left">
+            <div className="flex flex-col space-y-2  lg:text-left">
               {tabs.map((tab) => (
                 <div
                   key={tab}
                   className={`ps-2 pb-1 text-xs lg:text-sm font-medium cursor-pointer transition-colors w-full ${activeTab === tab
-                      ? 'text-white border-l-2 border-blue-400  '
-                      : 'text-gray-400 hover:text-white '
+                    ? 'text-white border-l-2 border-blue-400  '
+                    : 'text-gray-400 hover:text-white '
                     }`}
                   onClick={() => handleTabClick(tab)}
                 >
@@ -91,9 +91,9 @@ const ComprehensiveSearch = () => {
       </div>
 
       {/* Bottom Left Scroll Button */}
-      <div className="absolute xs:bottom-10 right-[-100px] bottom-32 w-full flex justify-start items-center pl-4 sm:pl-6 lg:pl-8">
+      <div className="absolute xs:bottom-10   right-[-10px] md:right-[-100px] bottom-32 w-full flex justify-start items-center pl-4 sm:pl-6 lg:pl-8">
         <a href="#steps">
-          <div className="w-[30px] h-[54px] rounded-3xl border-4 border-gray-600 flex justify-center items-start p-2">
+          <div className="w-[30px] h-[54px] rounded-3xl border-4 border-gray-600 flex justify-center items-start p-2 xs:ml-[-80px]">
             <motion.div
               animate={{
                 y: [0, 24, 0],

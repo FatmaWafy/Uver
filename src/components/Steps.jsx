@@ -64,7 +64,7 @@ const Steps = () => {
             <div className="text-gray-600 text-sm font-medium mb-4 sm:mb-0 sm:mr-auto border-l-2 border-blue-400 ps-2">
               How It Works
             </div>
-            <h1 className="text-4xl sm:text-5xl font-bold text-gray-800 text-center flex-1">
+            <h1 className="text-4xl lg:text-5xl font-bold text-gray-800 text-center flex-1">
               Simple Steps to College Success
             </h1>
             <div className="flex items-center mt-4 sm:mt-0 sm:ml-auto w-12 h-12">
